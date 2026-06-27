@@ -24,7 +24,7 @@ https://win11react-docs.andrewstech.me/
 
 ## _This project is still a work in progress._
 
-#### Live Experience🌈: [win11.blueedge.me](https://win11.blueedge.me)
+#### Live Experience: [win11.blueedge.me](https://win11.blueedge.me)
 
 ![Home](./public/img/home.jpg)
 
